@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://sanman.github.io/once-again/sitemap.xml 
